@@ -1,6 +1,6 @@
 # ETL_IA
 
-Projeto desenvolvido na Santander Dev Week 2023.
+**Projeto desenvolvido na Santander Dev Week 2023.**
 
 Construimos um pipeline ETL (Extração, Transformação e Carregamento), demonstrando a relação entre dados, Inteligência Artificial (IA) e APIs.
 Extração: Começamos com uma planilha simples, de onde extraimos os IDs dos usuários. Depois, usamos esses IDs para acessar a API da 
